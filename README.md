@@ -1,0 +1,2 @@
+# francis-admin
+Administrar stock
